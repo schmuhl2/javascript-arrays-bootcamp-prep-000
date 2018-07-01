@@ -3,5 +3,4 @@ var chocolateBars [
   "hundred grand",
   "kitkat",
   "skittles"];
-  chocolateBars.push("Milky way")
   
